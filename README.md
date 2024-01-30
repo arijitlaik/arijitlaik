@@ -2,7 +2,7 @@
 
 [![GitHub Badge](https://img.shields.io/github/followers/arijitlaik?label=Follow&style=social)](https://github.com/arijitlaik)
 [![Twitter Badge](https://img.shields.io/twitter/follow/arijit_laik?label=Follow&style=social)](https://twitter.com/arijit_laik)
-[![LinkedIn Badge](https://img.shields.io/badge/-Arijit%20Laik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijit-laik/)](https://www.linkedin.com/in/arijit-laik/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Arijit%20Laik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arijitlaik/)](https://www.linkedin.com/in/arijitlaik/)
 
 ---
 
@@ -110,4 +110,4 @@ I am a versatile Computational Geoscientist and Modeller, proficient in numerica
 
 ---
 
-Feel free to explore my [GitHub repositories](https://github.com/arijitlaik) and [personal website](#) to learn more about my journey!
+Feel free to explore my [GitHub repositories](https://github.com/arijitlaik) and [personal website](#https://alaik.me) to learn more about my journey!
