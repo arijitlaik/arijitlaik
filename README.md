@@ -1,5 +1,6 @@
 # Arijit Laik
 [![Arijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arijitlaik)](https://github.com/arijitlaik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arijitlaik)](https://github.com/arijitlaik/github-readme-stats)
 
 [![GitHub Badge](https://img.shields.io/github/followers/arijitlaik?label=Follow&style=social)](https://github.com/arijitlaik)
 [![Twitter Badge](https://img.shields.io/twitter/follow/arijit_laik?label=Follow&style=social)](https://twitter.com/arijit_laik)
