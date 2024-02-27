@@ -1,5 +1,5 @@
 # Arijit Laik
-[![Arijit's GitHub stats](https:/ghreadmestats.vercel.app/api?username=arijitlaik)]
+[![Arijit's GitHub stats]([https:/ghreadmestats.vercel.app/api?username=arijitlaik](https://ghreadmestats.vercel.app/api?username=arijitlaik))]
 [![Top Langs](https://ghreadmestats.vercel.app/api/top-langs/?username=arijitlaik)]
 
 [![GitHub Badge](https://img.shields.io/github/followers/arijitlaik?label=Follow&style=social)](https://github.com/arijitlaik)
