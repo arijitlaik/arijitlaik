@@ -1,4 +1,5 @@
-[![Arijit's GitHub stats](https://ghreadmestats.vercel.app/?username=arijitlaik)](https://github.com/arijitlaik/github-readme-stats)
+![image](https://github.com/arijitlaik/arijitlaik/assets/10157121/1ed5ffd0-4996-48b9-9f5b-252cf262ad53)
+
 [![Top Langs](https://ghreadmestats.vercel.app/api/top-langs/?username=arijitlaik)](https://github.com/arijitlaik/github-readme-stats)
 
 [![GitHub Badge](https://img.shields.io/github/followers/arijitlaik?label=Follow&style=social)](https://github.com/arijitlaik)
